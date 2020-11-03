@@ -1,2 +1,2 @@
 # Home Automation
-Playground for installation and configuration of 
+Installation and configuration of home automation components
