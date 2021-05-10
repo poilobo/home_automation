@@ -12,3 +12,6 @@
   - name: Install tmux
     apt:
       name: tmux
+  - name: Install python-is-python3
+    apt:
+      name: python-is-python3
