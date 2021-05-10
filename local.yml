@@ -1,0 +1,12 @@
+- hosts: localhost
+  connection: local
+  become: true
+  
+  tasks: 
+  - name: Install htop
+    apt:
+      name: htop
+  - name: Install vim
+    apt:
+      name: vim
+  
