@@ -9,4 +9,6 @@
   - name: Install vim
     apt:
       name: vim
-  
+  - name: Install tmux
+    apt:
+      name: tmux
