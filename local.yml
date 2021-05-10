@@ -15,3 +15,6 @@
   - name: Install python-is-python3
     apt:
       name: python-is-python3
+  - name: Install python-venv
+    apt:
+      name: python3-venv
